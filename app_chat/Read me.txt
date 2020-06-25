@@ -1,0 +1,12 @@
+This app created by Oualid Hihouka.
+Gamil:hihouka98@gamil.com
+wtsp:0639583021
+
+HTML5 ,CSS ,JQUERY ,AJAX ,PHP ,MYSQL:
+
+Nom base de donne:tchat
+tables:
+    users:id,name,email,password.
+    messages:id,sender,receiver,message,date.
+    messagesgroup:id,sender,message,date
+
